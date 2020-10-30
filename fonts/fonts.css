@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'fonts';
+    src: url('../fonts/NotoSansJP-Bold-Alphabetic.eot');
+    src: url('../fonts/NotoSansJP-Bold-Alphabetic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NotoSansJP-Bold-Alphabetic.woff2') format('woff2'),
+        url('../fonts/NotoSansJP-Bold-Alphabetic.woff') format('woff'),
+        url('../fonts/NotoSansJP-Bold-Alphabetic.ttf') format('truetype'),
+        url('../fonts/NotoSansJP-Bold-Alphabetic.svg#NotoSansJP-Bold-Alphabetic') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
